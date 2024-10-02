@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="C:\Users\ariel\OneDrive\Fotos\logo Penwing.png" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
