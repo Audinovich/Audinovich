@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 
 
-<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato.gif" align="right"/>
+<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato2.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
