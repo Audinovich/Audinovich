@@ -40,7 +40,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:arieludinovich@gmail.com">
+  <img src="https://img.shields.io/badge/-ariel-fernando-udinovich-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/Ariel Fernando Udinovich"><img src="https://img.shields.io/badge/-ariel-fernando-udinovich-aa4383197?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/ariel_udi"><img src="https://img.shields.io/badge/-@ariel_udi?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Ariel Udinovich"><img src="https://img.shields.io/badge/-@Ariel Udinovich?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -49,6 +51,4 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
