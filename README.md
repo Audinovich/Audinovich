@@ -1,3 +1,4 @@
+<body style="background-color: #b0b0b0; padding: 20px;">
 <img src="https://github.com/Audinovich/Audinovich/blob/main/arielFerrari.jpg" alt="Ariel Fernando Udinovich Banner" style="height: 220px; width: 100%;">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ariel</h2>
@@ -41,9 +42,11 @@
 
 <p align="center">
 <a href="mailto:arieludinovich@gmail.com">
-  <img src="https://img.shields.io/badge/-ariel-fernando-udinovich-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gmail-4CAF50?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon"/>
 </a>
-<a href="https://linkedin.com/in/Ariel Fernando Udinovich"><img src="https://img.shields.io/badge/-ariel-fernando-udinovich-aa4383197?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ArielFernandoUdinovich">
+  <img src="https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon"/>
+</a>
 <a href="https://instagram.com/ariel_udi"><img src="https://img.shields.io/badge/-@ariel_udi?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Ariel Udinovich"><img src="https://img.shields.io/badge/-@Ariel Udinovich?style=flat&logo=Facebook&logoColor=white"/></a>
 
