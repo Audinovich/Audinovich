@@ -1,4 +1,4 @@
-![Ariel Fernando Udinovich Banner](https://github.com/Audinovich/Audinovich/blob/main/arielybruna.jpeg)
+<img src="https://github.com/Audinovich/Audinovich/blob/main/arielFerrari.jpg" alt="Ariel Fernando Udinovich Banner" style="height: 220px; width: 100%;">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ariel</h2>
   
@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 
 
-<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato2.gif" align="right"/>
+<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato2.gif" align="right" width="400"/>
 
 ### 🛠 &nbsp;Tech Stack
 
