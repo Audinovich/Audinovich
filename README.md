@@ -1,5 +1,5 @@
 <body style="background-color: #b0b0b0; padding: 20px;">
-<img src="https://github.com/Audinovich/Audinovich/blob/main/arielFerrari.jpg" alt="Ariel Fernando Udinovich Banner" style="height: 220px; width: 100%;">
+<img src="https://github.com/Audinovich/Audinovich/blob/main/main.jpeg" alt="Ariel Fernando Udinovich Banner" style="height: 220px; width: 100%;">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ariel</h2>
   
