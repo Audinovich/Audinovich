@@ -41,12 +41,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:arieludinovich@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-4CAF50?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon"/>
-</a>
-<a href="https://linkedin.com/in/ArielFernandoUdinovich">
-  <img src="https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon"/>
-</a>
+<a href="mailto:arieludinovich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-4CAF50?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon"/></a>
+<a href="https://linkedin.com/in/ArielFernandoUdinovich"><img src="https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon"/></a>
 <a href="https://instagram.com/ariel_udi"><img src="https://img.shields.io/badge/-@ariel_udi?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Ariel Udinovich"><img src="https://img.shields.io/badge/-@Ariel Udinovich?style=flat&logo=Facebook&logoColor=white"/></a>
 
