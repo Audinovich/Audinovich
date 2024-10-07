@@ -12,7 +12,7 @@
 🚀 &nbsp;I’m eager to embrace new challenges and apply my skills in a junior or trainee position in backend development, contributing to innovative projects while growing professionally in the dynamic world of IT.
 
 
-<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato2.gif" align="right" width="400"/>
+<img alt="gato" src="https://github.com/Audinovich/Audinovich/blob/main/gato2.gif" align="right" width="350"/>
 
 ### 🛠 &nbsp;Tech Stack
 
